@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="language">nl</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="app_name">NL Zout iML</string>
+    <string name="project_name">Monitoring Project Onderwater Oever (MOO)</string>
+    <string name="catalog_name">MOO3</string>
+    <!-- catalogVersion where the last change was initiated. This translates directly to the location the expansionfiles are searched, 0 is the default... there is none -->
+    <string name="expansionfile_main_version">4</string>
+    <string name="expansionfile_patch_version">0</string>
+    <string name="mail_body">Automatisch verstuurd vanuit de IMarineLife App (NL Zout iML).</string>
+    <string name="mail_from">mailer.imarinelife@gmail.com</string>
+    <string name="mail_from_password">D41k@ppj3</string>
+    <string name="mail_to">marjon.roodzant@gmail.com,nielsschrieken@gmail.com</string>
+    <string name="introduction">iMarineLife is de interactieve veldgids voor de nieuwsgierige sportduiker en stimuleert bij het ontdekken van het onderwaterleven in de Nederlandse kustzone.\n\n
+iMarineLife helpt de duiker bij het herkennen, identificeren en waarderen van de mariene soorten tijdens het duiken en heeft de ambitie voor elke duiklocatie, in elk seizoen de beste veldgids te zijn.\n\n
+Dit betekent dat voor elke mariene soort de meest recente informatie over het voorkomen op een duikstek, de verspreiding in de omgeving en wanneer in het jaar de soort voorkomt in de gids staat.\n\n
+Dit is een enorme uitdaging die we graag samen met jou aangaan. Je levert een actieve bijdrage door jouw waarnemingen en jouw beste foto\’s van mariene soorten naar ons op te sturen naar foto@imarinelife.com.\n\n
+Jouw nieuwsgierige duikreis kan beginnen met iMarineLife. </string>
+    <string name="help_for_observations">Geef voor elke soort in de duikgids aan of je de soort:\n
+    \t0\t\t- niet \n
+    \tZ\t\t- zeldzaam (tot 10)\n
+    \tA\t\t- algemeen (tot 100)\n
+    \tM\t- massaal (meer dan 100)\n
+hebt gezien\n\n
+Geen zorgen als je het niet weet of je de soort gezien of herkend hebt. Gebruik dan:\n
+    \t?\t\t- niet op gelet\n\n
+Het is heel aannemelijk dat je een mariene soort ziet die niet in de lijst staat. De foto ontvangen we graag op foto@imarinelife.com.</string>
+    <string name="thanks">iMarineLife is tot stand gekomen met medewerking van enthousiaste vrijwilligers.\n\n
+Graag willen wij de volgende mensen bedanken\n
+    \t- de fotografen voor het beschikbaar stellen van hun onderwaterfoto\'s\n
+    \t- Stichting Anemoon voor het beschikbaar stellen van de teksten\n
+    \t- Marjon Roodzant voor het bouwen van de interactieve mariene veldgids voor Android.\n
+    \t- initiatiefnemers Olivier van der Post en Niels Schrieken (BiOrganized).\n\n\n
+
+Rene Westerings: http://reneweteringsunderwaterphotography.webs.com/ \n 
+John de Jong: http://www.jojodive.nl/  \n
+Merel Hogeweg: http://www.merelhogeweg.nl/ \n 
+Jenny Smit: http://www.fotoof.nl/main.php \n
+Cor Kuyvenhoven: http://corkuyvenhoven.com/ \n
+Arjan Gittenberger: http://www.ascidians.com/ \n
+Ellen Kop: https://www.facebook.com/ellen.kop.9 \n
+Lodewijk van Walraven: http://www.flickr.com/photos/lodewijkvanwalraven \n 
+Jacob Leloux: https://www.facebook.com/QbLulu \n 
+Marco Faasse: http://www.cryptosula.nl/ \n
+Silvia Waajen: http://www.onderwaterwereld.org/ \n
+Duncan van Vliet: http://www.onderwaterwereld.net/ \n 
+Joop Stalenburg: http://www.jopista.nl/ \n 
+Fred de Gast: http://www.deduiker.nl/ \n
+Sylvia van Leeuwen: https://www.facebook.com/sylvia.vanleeuwen.90 \n 
+Carla van Westing: https://www.facebook.com/carla.vanwesting \n
+Niels Schrieken: http://www.biorganized.com \n
+Mat Vestjens: http://www.natuurlijkmooi.net/zeeland/zeeland.htm\n\n\nWij nodigen alle vrijwilligers uit hun waarnemingen in deze veldgids vast te leggen, zodat iMarineLife de beste mariene veldgids wordt. Vrijwilligers alvast veel dank voor jullie bijdrage.</string>
+
+</resources>

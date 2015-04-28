@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="pp_0to3"><![CDATA[Verblijf 0m - 3m]]></string>
+    <string name="pp_3to6"><![CDATA[Verblijf 3m - 6m]]></string>
+    <string name="pp_6to12"><![CDATA[Verblijf 6m - 12m]]></string>
+    <string name="pp_12to18"><![CDATA[Verblijf 12m - 18m]]></string>
+    <string name="pp_18"><![CDATA[Verblijf > 18m]]></string>
+    <string name="pp_wreak"><![CDATA[Verblijf bij wrak]]></string>
+    <string name="pp_ponton"><![CDATA[Verblijf bij boei/ponton]]></string>
+
+</resources>

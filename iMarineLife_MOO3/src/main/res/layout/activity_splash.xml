@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash" >
+    <ImageView android:src="@drawable/icon_imalife_moo3_xhdpi"  
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

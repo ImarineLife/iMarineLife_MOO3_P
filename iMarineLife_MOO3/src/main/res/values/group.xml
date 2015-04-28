@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="porifera"><![CDATA[Sponzen]]></string>
+    <string name="cnidaria"><![CDATA[Kwallen en hydroïdpoliepen]]></string>
+    <string name="actiniaria"><![CDATA[Zeeanemonen]]></string>
+    <string name="ctenophora"><![CDATA[Ribkwallen]]></string>
+    <string name="vermes"><![CDATA[Wormen]]></string>
+    <string name="gastropoda"><![CDATA[Huisjesslakken]]></string>
+    <string name="nudibranchia"><![CDATA[Zeenaaktslakken]]></string>
+    <string name="bivalvia"><![CDATA[Tweekleppigen]]></string>
+    <string name="cephalopoda"><![CDATA[Inktvissen]]></string>
+    <string name="crustacea_major"><![CDATA[Grote kreeftachtigen]]></string>
+    <string name="bryozoa"><![CDATA[Mosdiertjes]]></string>
+    <string name="caridea"><![CDATA[Garnalen en aasgarnalen]]></string>
+    <string name="phoronida"><![CDATA[Hoefijzerwormen]]></string>
+    <string name="echinodermata"><![CDATA[Stekelhuidigen]]></string>
+    <string name="ascidiacea"><![CDATA[Zakpijpen]]></string>
+    <string name="pisces"><![CDATA[Vissen]]></string>
+    <string name="allgroups"><![CDATA[$porifera$$cnidaria$$Zeeanemonen$$actiniaria$$ctenophora$$vermes$$gastropoda$$nudibranchia$$bivalvia$$cephalopoda$$crustacea_major$$bryozoa$$caridea$$phoronida$$echinodermata$$ascidiacea$$pisces$]]></string>
+</resources>

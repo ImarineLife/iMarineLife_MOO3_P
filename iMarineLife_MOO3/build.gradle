@@ -1,0 +1,48 @@
+repositories{
+    mavenLocal()
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "nl.imarinelife.moo3"
+        minSdkVersion 8
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:22.0.0'
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile ('com.android.library:play_licensing-release@aar'){
+        transitive=true
+    }
+    compile ('com.android.library:zip_file-release@aar'){
+        transitive=true
+    }
+    compile ('com.android.library:downloader_library-release@aar'){
+        transitive=true
+    }
+    compile ('nl.imarinelife.lib:iMarineLife_lib-release@aar'){
+        transitive=true
+    }
+}
