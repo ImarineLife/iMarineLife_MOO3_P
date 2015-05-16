@@ -13,10 +13,10 @@ android {
 
     defaultConfig {
         applicationId "nl.imarinelife.moo3"
-        minSdkVersion 8
+        minSdkVersion 14
         targetSdkVersion 22
-        versionCode 1
-        versionName "1.0"
+        versionCode 9
+        versionName "1.9"
     }
     buildTypes {
         release {
